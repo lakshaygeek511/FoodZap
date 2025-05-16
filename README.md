@@ -75,24 +75,16 @@ The application follows a layered architecture:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/foodzap-backend.git
+git clone https://github.com/lakshaygeek511/foodzap.git
 cd foodzap-backend
 ```
 
-2. Configure the database in `application.properties`:
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/foodzap
-spring.datasource.username=root
-spring.datasource.password=password
-spring.jpa.hibernate.ddl-auto=update
-```
-
-3. Build the application:
+2. Build the application:
 ```bash
 ./mvnw clean package
 ```
 
-4. Run the application:
+3. Run the application:
 ```bash
 ./mvnw spring-boot:run
 ```
