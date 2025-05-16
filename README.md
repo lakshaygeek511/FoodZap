@@ -75,7 +75,7 @@ The application follows a layered architecture:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lakshaygeek511/foodzap.git
+git clone https://github.com/lakshaygeek511/FoodZap.git
 cd foodzap-backend
 ```
 
